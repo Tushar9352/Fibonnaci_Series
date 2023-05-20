@@ -18,3 +18,10 @@ for(int i = 1; i < n; i++)
         {
             System.out.println("Given number is Perfect");
         }
+       else
+        {
+            System.out.println("Given number is not Perfect");
+        }    
+    }
+  
+}
